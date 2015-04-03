@@ -1,5 +1,5 @@
 class String
   def define
-    "hi"
+    "hello"
   end
 end
